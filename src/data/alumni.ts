@@ -105,7 +105,7 @@ const alumni = [
         "lastname": "C",
         "category": "Firmware Analysis",
         "team": "Hardware",
-       
+        "batch": 2023,
         // "email": ""
         "img": "/images/team/aswinc.png",
     },
@@ -116,7 +116,7 @@ const alumni = [
         "lastname": "Menon",
         "category": "Firmware Analysis",
         "team": "Hardware",
-        
+        "batch": 2023,
         // "email": ""
         "img": "/images/team/athul.png",
     },
@@ -127,7 +127,7 @@ const alumni = [
         "lastname": "Biswas",
         "category": "Wireless Security",
         "team": "Hardware",
-       
+       "batch": 2023,
         // "email": ""
         "img": "/images/team/indraraj.png"
     },
@@ -138,7 +138,7 @@ const alumni = [
         "lastname": "Naushad",
         "category": "Embedded Devlopment",
         "team": "Hardware",
-        
+        "batch": 2023,
         // "email": ""
         "img": "/images/team/nidhin.png",
     },
@@ -149,7 +149,7 @@ const alumni = [
         "lastname": "Pradhan",
         "category": "Embedded Devlopment",
         "team": "Hardware",
-      
+        "batch": 2023,
         // "email": ""
         "img": "/images/team/ranit.png"
     },
