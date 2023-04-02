@@ -1,59 +1,5 @@
 const students = [
-    {
-        "campus": "Amritapuri", 
-        // "username": "",
-        "firstname": "Aswin",
-        "lastname": "C",
-        "category": "Firmware Analysis",
-        "team": "Hardware",
-        "year": 4,
-        // "email": ""
-        "img": "/images/team/aswinc.png",
-    },
-    {
-        "campus": "Amritapuri", 
-        // "username": "",
-        "firstname": "Athul",
-        "lastname": "Menon",
-        "category": "Firmware Analysis",
-        "team": "Hardware",
-        "year": 4,
-        // "email": ""
-        "img": "/images/team/athul.png",
-    },
-    {
-        "campus": "Amritapuri", 
-        // "username": "",
-        "firstname": "Indraraj",
-        "lastname": "Biswas",
-        "category": "Wireless Security",
-        "team": "Hardware",
-        "year": 4,
-        // "email": ""
-        "img": "/images/team/indraraj.png"
-    },
-    {
-        "campus": "Amritapuri", 
-        // "username": "",
-        "firstname": "Nidhin",
-        "lastname": "Naushad",
-        "category": "Embedded Devlopment",
-        "team": "Hardware",
-        "year": 4,
-        // "email": ""
-        "img": "/images/team/nidhin.png",
-    },
-    {
-        "campus": "Amritapuri", 
-        // "username": "",
-        "firstname": "Ranit",
-        "lastname": "Pradhan",
-        "category": "Embedded Devlopment",
-        "team": "Hardware",
-        "year": 4,
-        // "email": ""
-        "img": "/images/team/ranit.png"
-    },
+ 
     {
         "campus": "Amritapuri", 
         // "username": "",
@@ -65,6 +11,20 @@ const students = [
         // "email": ""
         "img":"/images/team/sreesankar1.png",
     },
+    
+
+    {
+        "campus": "Amritapuri", 
+        // "username": "",
+        "firstname": "Archit",
+        "lastname": "Kak",
+        "category": "Team Manager",
+        "team": "Hardware",
+        "year": 3,
+        // "email": ""
+        "img":"/images/team/archit.png",
+    },    
+    
     {
         "campus": "Amritapuri", 
         // "username": "",
@@ -112,18 +72,6 @@ const students = [
         "img":"/images/team/gauthamjb.png",
     },
 
-
-    {
-        "campus": "Amritapuri", 
-        // "username": "",
-        "firstname": "Archit",
-        "lastname": "Kak",
-        "category": "Automotive Security",
-        "team": "Hardware",
-        "year": 3,
-        // "email": ""
-        "img":"/images/team/archit.png",
-    },
     {
         "campus": "Amritapuri", 
         // "username": "",
@@ -135,17 +83,7 @@ const students = [
         // "email": ""
         "img": "/images/team/satysai.png",
     },
-    //{
-        //"campus": "Amritapuri", 
-        // "username": "",
-        //"firstname": "Siddharth",
-        //"lastname": "Reddy",
-        //"category": "Web Security",
-        //"team": "Hardware",
-        //"year": 2,
-        // "email": ""
-        //"img": "/images/team/siddharth.png",
-    //},
+    
     {
         "campus": "Amritapuri", 
         // "username": "",
@@ -168,17 +106,7 @@ const students = [
         // "email": ""
         "img":"/images/team/karthik.png",
     },
-    {
-        "campus": "Amritapuri", 
-        // "username": "",
-        "firstname": "Raja",
-        "lastname": "S K",
-        "category": "Hardware Security",
-        "team": "Hardware",
-        "year": 2,
-        // "email": ""
-        "img":"/images/team/rajask.png"
-    },
+ 
     {
         "campus": "Amritapuri", 
         // "username": "",
@@ -201,17 +129,7 @@ const students = [
         // "email": ""
         "img":"/images/team/drupad.png",
     },
-    {
-        "campus": "Amritapuri", 
-        // "username": "",
-        "firstname": "Avanthika",
-        "lastname": "Rajesh",
-        "category": "OT Security",
-        "team": "Hardware",
-        "year": 2,
-        // "email": ""
-        "img": "/images/team/avanthika.png",
-    },
+  
     {
         "campus": "Amritapuri", 
         // "username": "",
