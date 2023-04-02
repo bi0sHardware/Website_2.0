@@ -98,6 +98,61 @@ const alumni = [
         "email": "",
         img:"/images/team/keerthana.png"
     },
+       {
+        "campus": "Amritapuri", 
+        // "username": "",
+        "firstname": "Aswin",
+        "lastname": "C",
+        "category": "Firmware Analysis",
+        "team": "Hardware",
+       
+        // "email": ""
+        "img": "/images/team/aswinc.png",
+    },
+    {
+        "campus": "Amritapuri", 
+        // "username": "",
+        "firstname": "Athul",
+        "lastname": "Menon",
+        "category": "Firmware Analysis",
+        "team": "Hardware",
+        
+        // "email": ""
+        "img": "/images/team/athul.png",
+    },
+    {
+        "campus": "Amritapuri", 
+        // "username": "",
+        "firstname": "Indraraj",
+        "lastname": "Biswas",
+        "category": "Wireless Security",
+        "team": "Hardware",
+       
+        // "email": ""
+        "img": "/images/team/indraraj.png"
+    },
+    {
+        "campus": "Amritapuri", 
+        // "username": "",
+        "firstname": "Nidhin",
+        "lastname": "Naushad",
+        "category": "Embedded Devlopment",
+        "team": "Hardware",
+        
+        // "email": ""
+        "img": "/images/team/nidhin.png",
+    },
+    {
+        "campus": "Amritapuri", 
+        // "username": "",
+        "firstname": "Ranit",
+        "lastname": "Pradhan",
+        "category": "Embedded Devlopment",
+        "team": "Hardware",
+      
+        // "email": ""
+        "img": "/images/team/ranit.png"
+    },
 ]
 
 export default alumni;
